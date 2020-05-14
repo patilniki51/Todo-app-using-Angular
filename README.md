@@ -1,4 +1,4 @@
-#### To Run the project in Browser
+### To Run the project in Browser
 
 You can view the project by typing "https://patilniki51.github.io/Todo-app-using-Angular/" in the chrome.
 
