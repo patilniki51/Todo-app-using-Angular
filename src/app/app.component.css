@@ -36,3 +36,7 @@ input[type=text]{
     border-radius: 10px;
     text-indent: 5px;
 }
+
+li{
+     list-style:none;
+}
