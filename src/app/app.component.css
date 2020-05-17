@@ -38,5 +38,10 @@ input[type=text]{
 }
 
 li{
+<<<<<<< HEAD
     list-style: none;
 }
+=======
+     list-style:none;
+}
+>>>>>>> a8155b4506ca1e79ad50a39b07704032ea0cc99b
